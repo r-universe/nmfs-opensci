@@ -1,5 +1,20 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nmfs-opensci/nmfs-opensci.r-universe.dev
 	shallow = true
 	branch = HEAD
+[submodule "NWCTrends"]
+	path = NWCTrends
+	url = https://github.com/nwfsc-math-bio/NWCTrends
+	shallow = true
+	registered = true
+[submodule "rCAX"]
+	path = rCAX
+	url = https://github.com/nwfsc-math-bio/rCAX
+	shallow = true
+	registered = true
+[submodule "VRData"]
+	path = VRData
+	url = https://github.com/nwfsc-math-bio/VRData
+	shallow = true
+	registered = true
