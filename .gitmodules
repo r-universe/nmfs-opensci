@@ -18,3 +18,8 @@
 	url = https://github.com/nwfsc-math-bio/VRData
 	shallow = true
 	registered = true
+[submodule "atsar"]
+	path = atsar
+	url = https://github.com/atsa-es/atsar
+	shallow = true
+	registered = true
