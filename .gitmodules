@@ -5,12 +5,12 @@
 [submodule "NWCTrends"]
 	path = NWCTrends
 	url = https://github.com/nwfsc-math-bio/NWCTrends
-[submodule "rCAX"]
-	path = rCAX
-	url = https://github.com/nwfsc-math-bio/rCAX
 [submodule "VRData"]
 	path = VRData
 	url = https://github.com/nwfsc-math-bio/VRData
 [submodule "atsar"]
 	path = atsar
 	url = https://github.com/atsa-es/atsar
+[submodule "rCAX"]
+	path = rCAX
+	url = https://github.com/nwfsc-math-bio/rCAX
