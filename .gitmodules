@@ -2,15 +2,66 @@
 	path = .registry
 	url = https://github.com/nmfs-opensci/nmfs-opensci.r-universe.dev
 	branch = HEAD
+[submodule "Dynamic Modeler in R"]
+	path = Dynamic Modeler in R
+	url = https://github.com/nwfsc-math-bio/DM
+[submodule "FishSET"]
+	path = FishSET
+	url = https://github.com/noaa-nwfsc/FishSET
+[submodule "MAR1"]
+	path = MAR1
+	url = https://github.com/atsa-es/MAR1
+[submodule "MARSS"]
+	path = MARSS
+	url = https://github.com/atsa-es/MARSS
 [submodule "NWCTrends"]
 	path = NWCTrends
 	url = https://github.com/nwfsc-math-bio/NWCTrends
-[submodule "VRData"]
-	path = VRData
+[submodule "PhenoMix"]
+	path = PhenoMix
+	url = https://github.com/nwfsc-cb/phenomix
+[submodule "SRKW Status"]
+	path = SRKW Status
+	url = https://github.com/noaa-nwfsc/srkw-status
+[submodule "Shellfish Genetic Risk"]
+	path = Shellfish Genetic Risk
+	url = https://github.com/nwfsc-cb/shellfish-genetic-risks
+[submodule "Stock Assessment Tables and Figures"]
+	path = Stock Assessment Tables and Figures
+	url = https://github.com/nmfs-ost/satf
+[submodule "VRAP C++"]
+	path = VRAP C++
+	url = https://github.com/noaa-nwfsc/VRAPCpp
+[submodule "Viability Report Data"]
+	path = Viability Report Data
 	url = https://github.com/nwfsc-math-bio/VRData
-[submodule "atsar"]
-	path = atsar
-	url = https://github.com/atsa-es/atsar
+[submodule "Viability and Risk Assessment Procedure"]
+	path = Viability and Risk Assessment Procedure
+	url = https://github.com/nwfsc-math-bio/VRAP
+[submodule "Zoid"]
+	path = Zoid
+	url = https://github.com/noaa-nwfsc/zoid
+[submodule "ZoidTMB"]
+	path = ZoidTMB
+	url = https://github.com/noaa-nwfsc/zoidtmb
+[submodule "bayesdfa"]
+	path = bayesdfa
+	url = https://github.com/fate-ewi/bayesdfa
+[submodule "marssTMB"]
+	path = marssTMB
+	url = https://github.com/atsa-es/marssTMB
+[submodule "maxnet"]
+	path = maxnet
+	url = https://github.com/BigelowLab/maxnet
+[submodule "mvdlm"]
+	path = mvdlm
+	url = https://github.com/atsa-es/mvdlm
 [submodule "rCAX"]
 	path = rCAX
-	url = https://github.com/nwfsc-math-bio/rCAX
+	url = https://github.com/nwfsc-cb/rCAX
+[submodule "tvvarss"]
+	path = tvvarss
+	url = https://github.com/atsa-es/tvvarss
+[submodule "varlasso"]
+	path = varlasso
+	url = https://github.com/atsa-es/varlasso
