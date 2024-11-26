@@ -2,8 +2,8 @@
 	path = .registry
 	url = https://github.com/nmfs-opensci/nmfs-opensci.r-universe.dev
 	branch = HEAD
-[submodule "Dynamic Modeler in R"]
-	path = Dynamic Modeler in R
+[submodule "DM"]
+	path = DM
 	url = https://github.com/nwfsc-math-bio/DM
 [submodule "FishSET"]
 	path = FishSET
@@ -17,36 +17,21 @@
 [submodule "NWCTrends"]
 	path = NWCTrends
 	url = https://github.com/nwfsc-math-bio/NWCTrends
-[submodule "PhenoMix"]
-	path = PhenoMix
-	url = https://github.com/nwfsc-cb/phenomix
-[submodule "SRKW Status"]
-	path = SRKW Status
-	url = https://github.com/noaa-nwfsc/srkw-status
-[submodule "Shellfish Genetic Risk"]
-	path = Shellfish Genetic Risk
-	url = https://github.com/nwfsc-cb/shellfish-genetic-risks
-[submodule "Stock Assessment Tables and Figures"]
-	path = Stock Assessment Tables and Figures
-	url = https://github.com/nmfs-ost/satf
-[submodule "VRAP C++"]
-	path = VRAP C++
+[submodule "VRAP"]
+	path = VRAP
+	url = https://github.com/nwfsc-math-bio/VRAP
+[submodule "VRAPS"]
+	path = VRAPS
 	url = https://github.com/noaa-nwfsc/VRAPCpp
 [submodule "Viability Report Data"]
 	path = Viability Report Data
 	url = https://github.com/nwfsc-math-bio/VRData
-[submodule "Viability and Risk Assessment Procedure"]
-	path = Viability and Risk Assessment Procedure
-	url = https://github.com/nwfsc-math-bio/VRAP
-[submodule "Zoid"]
-	path = Zoid
-	url = https://github.com/noaa-nwfsc/zoid
-[submodule "ZoidTMB"]
-	path = ZoidTMB
-	url = https://github.com/noaa-nwfsc/zoidtmb
 [submodule "bayesdfa"]
 	path = bayesdfa
 	url = https://github.com/fate-ewi/bayesdfa
+[submodule "kwdemog"]
+	path = kwdemog
+	url = https://github.com/noaa-nwfsc/srkw-status
 [submodule "marssTMB"]
 	path = marssTMB
 	url = https://github.com/atsa-es/marssTMB
@@ -56,12 +41,27 @@
 [submodule "mvdlm"]
 	path = mvdlm
 	url = https://github.com/atsa-es/mvdlm
+[submodule "phenomix"]
+	path = phenomix
+	url = https://github.com/nwfsc-cb/phenomix
 [submodule "rCAX"]
 	path = rCAX
 	url = https://github.com/nwfsc-cb/rCAX
+[submodule "satf"]
+	path = satf
+	url = https://github.com/nmfs-ost/satf
+[submodule "shellfishrisks"]
+	path = shellfishrisks
+	url = https://github.com/nwfsc-cb/shellfish-genetic-risks
 [submodule "tvvarss"]
 	path = tvvarss
 	url = https://github.com/atsa-es/tvvarss
 [submodule "varlasso"]
 	path = varlasso
 	url = https://github.com/atsa-es/varlasso
+[submodule "zoid"]
+	path = zoid
+	url = https://github.com/noaa-nwfsc/zoid
+[submodule "zoidtmb"]
+	path = zoidtmb
+	url = https://github.com/noaa-nwfsc/zoidtmb
