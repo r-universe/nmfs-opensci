@@ -23,8 +23,8 @@
 [submodule "VRAPS"]
 	path = VRAPS
 	url = https://github.com/noaa-nwfsc/VRAPCpp
-[submodule "Viability Report Data"]
-	path = Viability Report Data
+[submodule "VRData"]
+	path = VRData
 	url = https://github.com/nwfsc-math-bio/VRData
 [submodule "bayesdfa"]
 	path = bayesdfa
