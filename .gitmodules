@@ -41,6 +41,10 @@
 [submodule "mvdlm"]
 	path = mvdlm
 	url = https://github.com/atsa-es/mvdlm
+[submodule "nmfspalette"]
+	path = nmfspalette
+	url = https://github.com/nmfs-fish-tools/nmfspalette
+	registered = false
 [submodule "phenomix"]
 	path = phenomix
 	url = https://github.com/nwfsc-cb/phenomix

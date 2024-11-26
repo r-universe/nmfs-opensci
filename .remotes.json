@@ -4,5 +4,11 @@
     "url": "https://github.com/atsa-es/MARSS",
     "via": ["marssTMB"],
     "from": "marssTMB"
+  },
+  {
+    "package": "nmfspalette",
+    "url": "https://github.com/nmfs-fish-tools/nmfspalette",
+    "via": ["satf"],
+    "from": "satf"
   }
 ]
