@@ -29,9 +29,6 @@
 [submodule "bayesdfa"]
 	path = bayesdfa
 	url = https://github.com/fate-ewi/bayesdfa
-[submodule "kwdemog"]
-	path = kwdemog
-	url = https://github.com/noaa-nwfsc/srkw-status
 [submodule "marssTMB"]
 	path = marssTMB
 	url = https://github.com/atsa-es/marssTMB
@@ -47,12 +44,15 @@
 [submodule "rCAX"]
 	path = rCAX
 	url = https://github.com/nwfsc-cb/rCAX
-[submodule "satf"]
-	path = satf
-	url = https://github.com/nmfs-ost/satf
 [submodule "shellfishrisks"]
 	path = shellfishrisks
 	url = https://github.com/nwfsc-cb/shellfish-genetic-risks
+[submodule "srkwstatus"]
+	path = srkwstatus
+	url = https://github.com/noaa-nwfsc/srkw-status
+[submodule "stockplotr"]
+	path = stockplotr
+	url = https://github.com/nmfs-ost/stockplotr
 [submodule "tvvarss"]
 	path = tvvarss
 	url = https://github.com/atsa-es/tvvarss
